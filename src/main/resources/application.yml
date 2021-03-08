@@ -1,0 +1,5 @@
+graphql:
+  packages:
+    - "com.example.addressbook.graphql"
+  playground:
+    enabled: true
